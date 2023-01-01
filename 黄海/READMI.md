@@ -22,4 +22,5 @@
     ![编号顺序](https://user-images.githubusercontent.com/62498566/210170499-aca3db06-8f57-4c04-a2b9-af4f523749d7.png)
 
 6. 视频演示：
-<video url="./READMI/sosa.mp4">视频不可用<video>
+    [视频](./READMI/sosa.mp4")
+    <video url="https://user-images.githubusercontent.com/62498566/210170597-88361fbb-b57e-43bb-9674-0b2b27ada1aa.mp4">操作</video>
