@@ -23,4 +23,4 @@
 
 6. 视频演示：
     [视频](./READMI/sosa.mp4")
-    <video url="https://user-images.githubusercontent.com/62498566/210170597-88361fbb-b57e-43bb-9674-0b2b27ada1aa.mp4">操作</video>
+    <video src="https://user-images.githubusercontent.com/62498566/210170597-88361fbb-b57e-43bb-9674-0b2b27ada1aa.mp4">操作</video>
