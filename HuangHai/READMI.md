@@ -2,7 +2,7 @@
 ### 本脚本使用Java语言开发，仅用于学习 ###
 ## 使用方法： ##
 1. 来到地图所在位置：
-![荒海](http://m.qpic.cn/psc?/V53OAaRX3m2sk02sdg7W3asknC0UrczJ/ruAMsa53pVQWN7FLK88i5vCT6U53DA6*AHWIRJ4dtBKIcFJZyomeDMwhSvsYPUufSaZvpngs9RWE1mU9LMFaTRxZFbg6oIDH0*Fbd5irYUM!/b&bo=YAk4BAAAAAABF2U!&rf=viewer_4&t=5)
+![荒海](./READMI/map1.png)
 
 2. 雷柱子打完解除封印后可进入下面的井口：
     ![井口](http://m.qpic.cn/psc?/V53OAaRX3m2sk02sdg7W3asknC0UrczJ/ruAMsa53pVQWN7FLK88i5vCT6U53DA6*AHWIRJ4dtBIHlYH6EFDb8.cNthUVzXws83sI*Imu8IfqRkbnBVOYFCGFjcLRZzdZiN4zykz9chM!/b&bo=CAcqAwAAAAADh4Q!&rf=viewer_4&t=5)
